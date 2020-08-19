@@ -8,8 +8,8 @@ const greeting = {
     /* Your Summary And Greeting Section */
     username: "Shivam Shukla",
     title: "Hi, I'm Shivam",
-    subTitle: emoji("An aspiring IT engineer 🚀 having an experience of building Web applications with Nodejs / Express.A Machine and Deep Learning Enthusiast specially in field of Computer Vision."),
-    resumeLink: ""
+    subTitle: emoji("An aspiring IT engineer 🚀 having an experience of building Web applications with Nodejs / Express. A Machine and Deep Learning Enthusiast specially in field of Computer Vision."),
+    resumeLink: "https://drive.google.com/file/d/1AYexyWMb5_KjS0xqwyHCcNLvQL6fbicJ/view?usp=sharing"
 };
 
 // Your Social Media Link
@@ -33,8 +33,8 @@ const skillsSection = {
     subTitle: "Learning and improving everyday!",
     skills: [
         emoji("⚡ Skilled in JAVA, JavaScript(NodeJS, Express), Python"),
-        emoji("⚡ Develop the Actions for Google Assistant."),
-        emoji("⚡ Working on AI and ML using Python(sklearn, Tensorflow, OpenCV)")
+        emoji("⚡ Google Assistant Action Developer."),
+        emoji("⚡ Currently working on Machine Learning and Deep Learning using Python(sklearn, Tensorflow)")
     ],
 
     /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -72,9 +72,6 @@ const skillsSection = {
             skillName: "AWS",
             fontAwesomeClassname: "fab fa-aws"
         },
-
-
-
     ]
 };
 
@@ -320,7 +317,7 @@ const podcastSection = {
 const contactInfo = {
     title: emoji("Contact Me ☎️"),
     subtitle: "My Inbox is always open.",
-    number: "+91-9999014429",
+    number: "",
     email_address: "shivamshukla2297@gmail.com"
 };
 
